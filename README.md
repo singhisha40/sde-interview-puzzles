@@ -27,7 +27,7 @@ Every puzzle gets its own folder with my approach, solution, and the key insight
 | Day | Puzzle | Topic | Difficulty | Link |
 |-----|--------|-------|------------|------|
 | — | — | — | — | Starting soon |
-| 1 | Find the 3 Fastest Horses | Logic / Elimination | Easy | [link](puzzles/001-25-horses/) |
+| 1 | Find the 3 Fastest Horses | Logic / Elimination | Easy | [link](https://www.geeksforgeeks.org/aptitude/puzzle-9-find-the-fastest-3-horses/) |
 
 ---
 
