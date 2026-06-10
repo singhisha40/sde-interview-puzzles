@@ -28,6 +28,7 @@ Every puzzle gets its own folder with my approach, solution, and the key insight
 |-----|--------|-------|------------|------|
 | — | — | — | — | Starting soon |
 | 1 | Find the 3 Fastest Horses | Logic / Elimination | Easy | [link](https://www.geeksforgeeks.org/aptitude/puzzle-9-find-the-fastest-3-horses/) |
+| 2 | 100 Doors | Logic / Number Theory | Easy | [link](https://www.geeksforgeeks.org/dsa/puzzle-16-100-doors/) |
 
 ---
 
