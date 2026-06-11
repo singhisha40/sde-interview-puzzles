@@ -44,6 +44,11 @@ puzzles/
 │   └── notes.md        ← what I learnt, what tripped me
 └── ...
 ```
+## 📁 How to use this resource:
+*First, go through the problem.md file : understand the problem, try to come up with the solution yourself* <br/>
+*Second, see the solution.md file for complete explanation*<br/>
+*Third, go for notes.md to get to know what I did wrong and you may(This step is completely optional, but helps with optimization in understanding)*<br/>
+
 
 ---
 
