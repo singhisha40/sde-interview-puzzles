@@ -2,7 +2,7 @@
 
 **Source:** GeeksForGeeks 100 Puzzles  
 **Puzzle #:** 004  
-**GFG Link:** https://www.geeksforgeeks.org/aptitude/puzzle-5-finding-the-injection-for-anesthesia/  
+**GFG Link:** https://www.geeksforgeeks.org/aptitude/puzzle-5-finding-the-injection-for-anesthesia/   
 **Difficulty:** Medium  
 **Topic:** Logic / Ternary Number System
 
